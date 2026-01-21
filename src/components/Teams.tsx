@@ -18,23 +18,23 @@ export default function Team() {
     {
       name: "Prof. Rutvij Mane",
       role: "Faculty Coordinator",
-      image: "https://api.dicebear.com/7.x/avataaars/svg?seed=Faculty2",
+      image: "/images/Team/Rutvij Mane.jpeg",
       bio: "Academic mentor and technical advisor",
-      socials: { linkedin: "#" },
+      socials: { linkedin: "" },
     },
     {
       name: "Dr. Rajashree Gadhave",
       role: "Head of Computer Department",
-      image: "https://api.dicebear.com/7.x/avataaars/svg?seed=Faculty1",
+      image: "/images/Team/Rajashree Gadhave.jpeg",
       bio: "Guiding Hackoverflow with vision & experience",
-      socials: { linkedin: "#" },
+      socials: { linkedin: "" },
     },
     {
       name: "Prof. Pradnya Patil",
       role: "Faculty Coordinator",
-      image: "https://api.dicebear.com/7.x/avataaars/svg?seed=Faculty3",
+      image: "/images/Team/Pradnya Patil.jpeg",
       bio: "Driving innovation and student collaboration",
-      socials: { linkedin: "#" },
+      socials: { linkedin: "" },
     },
   ];
 
@@ -42,16 +42,17 @@ export default function Team() {
     {
       name: "Darin Peringalloor",
       role: "Hackoveflow 4.0 Lead",
-      image: "https://api.dicebear.com/7.x/avataaars/svg?seed=Chetan",
+      image: "/images/Team/Darin.jpeg",
       bio: "Product visionary with 15+ years experience",
-      socials: { linkedin: "#", twitter: "#" },
+      socials: { linkedin: " https://www.linkedin.com/in/darin-peringalloor", 
+        github: "https://github.com/DarinJoy" },
     },
     {
       name: "Sampriti Dogra",
       role: "Hackoveflow 4.0 Lead",
-      image: "https://api.dicebear.com/7.x/avataaars/svg?seed=Parth",
+      image: "/images/Team/Sampriti Dogra.jpeg",
       bio: "Systems architect & infra expert",
-      socials: { github: "#" },
+      socials: { github: "" },
     },
   ];
 
@@ -59,86 +60,94 @@ export default function Team() {
     {
       name: "Parth Bhoir",
       role: "Event Head",
-      image: "https://api.dicebear.com/7.x/avataaars/svg?seed=Neha",
+      image: "/images/Team/Parth Bhoir.jpeg",
       bio: "Building communities and outreach",
-      socials: { twitter: "#" },
+      socials: { linkedin: "https://in.linkedin.com/in/parth-bhoir-781727289",
+        github: "https://github.com/Parthb56"
+       },
     },
     {
       name: "Chetan Jadhav",
       role: "Technical Head",
-      image: "https://api.dicebear.com/7.x/avataaars/svg?seed=Neha",
+      image: "/images/Team/Chetan Jadhav.jpeg",
       bio: "Building communities and outreach",
-      socials: { twitter: "#" },
+      socials: { linkedin: "https://www.linkedin.com/in/iamchetanjadhav", 
+        github: "https://github.com/iamchetanjadhav" },
     },
     {
       name: "Rohan Gharat",
       role: "Media Head",
-      image: "https://api.dicebear.com/7.x/avataaars/svg?seed=James",
+      image: "/images/Team/Rohan Gharat.jpeg",
       bio: "Scaling startups from zero to hero",
-      socials: { github: "#" },
+      socials: { linkedin: "", github: "" },
     },
     {
       name: "Aarya Karpe",
       role: "Graphics Head",
-      image: "https://api.dicebear.com/7.x/avataaars/svg?seed=Aisha",
+      image: "/images/Team/Aarya Karpe.png",
       bio: "0 to millions specialist",
-      socials: { twitter: "#" },
+      socials: {  },
     },
     {
       name: "Ashutosh Chavan",
       role: "Finance Head",
-      image: "https://api.dicebear.com/7.x/avataaars/svg?seed=Neha",
+      image: "/images/Team/Ashutosh Chavan.jpeg",
       bio: "Building communities and outreach",
-      socials: { twitter: "#" },
+      socials: { github: "https://github.com/Ashutosh-Chavan", 
+        linkedin: "https://www.linkedin.com/in/ashutosh-chavan2212" },
     },
     {
       name: "Aayush Gunjal",
       role: "Management Head",
-      image: "https://api.dicebear.com/7.x/avataaars/svg?seed=Rahul",
+      image: "/images/Team/Aayush Gunjal.jpeg",
       bio: "Designing intuitive user experiences",
-      socials: { linkedin: "#" },
+      socials: { linkedin: "http://linkedin.com/in/aayushgunjal", 
+        github: "http://github.com/AayushGunjal" },
     },
     {
       name: "Midhun Mohandas",
       role: "PR/BD Head",
-      image: "https://api.dicebear.com/7.x/avataaars/svg?seed=Neha",
+      image: "/images/Team/Midhun Mohandas.jpeg",
       bio: "Building communities and outreach",
-      socials: { twitter: "#" },
+      socials: { linkedin: "https://www.linkedin.com/in/midhun-mohandas-684a07283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", 
+        github: "https://github.com/student-midhun" },
     },
     {
       name: "Richa Shringarpure",
       role: "Documentation Head",
-      image: "https://api.dicebear.com/7.x/avataaars/svg?seed=Neha",
+      image: "/images/Team/Richa Shrungarpure.png",
       bio: "Building communities and outreach",
-      socials: { twitter: "#" },
+      socials: { linkedin: "https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav", 
+        github: "https://github.com/RichaShringarpure" },
     },
     {
       name: "Vedanti Patil",
       role: "Decor Head",
-      image: "https://api.dicebear.com/7.x/avataaars/svg?seed=Neha",
+      image: "/images/Team/Vedanti Patil.jpeg",
       bio: "Building communities and outreach",
-      socials: { twitter: "#" },
+      socials: {  },
     },
     {
-      name: "Sharayu ",
+      name: "Sharayu Patil",
       role: "Decor Head",
-      image: "https://api.dicebear.com/7.x/avataaars/svg?seed=Neha",
+      image: "/images/Team/Sharayu Patil.jpeg",
       bio: "Building communities and outreach",
-      socials: { twitter: "#" },
+      socials: {  },
     },
     {
       name: "Chetan Jadhav",
       role: "Publicity Head",
-      image: "https://api.dicebear.com/7.x/avataaars/svg?seed=Neha",
+      image: "/images/Team/Chetan Jadhav.jpeg",
       bio: "Building communities and outreach",
-      socials: { twitter: "#" },
+      socials: { linkedin: "https://www.linkedin.com/in/iamchetanjadhav", 
+        github: "https://github.com/iamchetanjadhav" },
     },
     {
       name: "Aayush Gunjal",
       role: "Publicity Head",
-      image: "https://api.dicebear.com/7.x/avataaars/svg?seed=Neha",
+      image: "/images/Team/Aayush Gunjal.jpeg",
       bio: "Building communities and outreach",
-      socials: { twitter: "#" },
+      socials: { linkedin: "http://linkedin.com/in/aayushgunjal", github: "http://github.com/AayushGunjal" },
     },
   ];
 
@@ -191,8 +200,8 @@ export default function Team() {
         }
 
         .team-title {
-          font-size: 2.6rem;
-          font-weight: 700;
+          font-size: 3.6rem;
+          font-weight: 800;
           color: #fff;
         }
 
@@ -210,7 +219,8 @@ export default function Team() {
         /* ===== SECTION HEAD ===== */
         .section-head {
           text-align: center;
-          margin-bottom: 2.8rem;
+          margin-bottom: 1.8rem;
+          margin-top: 1.5rem;
         }
 
 
@@ -281,8 +291,8 @@ export default function Team() {
         }
 
         .team-avatar img {
-          width: 100%;
-          height: 100%;
+          width: 110%;
+          height: 110%;
           object-fit: cover;
         }
 
